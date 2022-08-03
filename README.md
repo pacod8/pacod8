@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Paco</h1>
-<h3 align="center">A passionate software student from Spain 🇪🇸</h3>
+<h3 align="center">A passionate software engineer from Spain 🇪🇸</h3>
 
 - 📫 How to reach me **pacodominguezg@gmail.com**
 
